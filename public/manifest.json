@@ -1,0 +1,17 @@
+{
+  "name": "积分打卡",
+  "short_name": "打卡",
+  "description": "每日积分打卡工具，支持任务管理、打卡积分、积分统计、积分兑换",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF9F2",
+  "theme_color": "#FF8C42",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
